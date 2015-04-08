@@ -1,5 +1,4 @@
-###NFC-Excellent Payment System For progressive virtual world
-                     
+                 
 ###Abstract
 At present we are used to do all our payments through smartphones, which increased the ease of doing our tasks. Near Field
 communication (NFC) is a magnificent technology used for mobile payment applications thereby creating a mobile wallet with
