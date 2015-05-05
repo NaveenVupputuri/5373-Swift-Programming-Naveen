@@ -5,22 +5,18 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5A7F2766-40BF-452E-B19D-B4E59B00D39D</string>
+	<string>ABDE987A-01C8-4AF5-A8E2-5724AEADA6A7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>MyLocations</string>
+	<string>BullsEye</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>1209B2A30B1DA1FF94CCA92428D258D39D448F96</key>
-		<string>https://github.com/rugbyprof/5373-Swift-Programming.git</string>
 		<key>1D1303C0F2F14B45D561C97E8DE8EC87083B0D1B</key>
 		<string>https://github.com/NaveenVupputuri/5373-Swift-Programming-Naveen.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CoreDataStarter/MyLocations.xcodeproj</string>
+	<string>BullsEye/BullsEye.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>1209B2A30B1DA1FF94CCA92428D258D39D448F96</key>
-		<string>../../../../5373-Swift-Programming</string>
 		<key>1D1303C0F2F14B45D561C97E8DE8EC87083B0D1B</key>
 		<string>../../..</string>
 	</dict>
@@ -32,14 +28,6 @@
 	<string>1D1303C0F2F14B45D561C97E8DE8EC87083B0D1B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>1209B2A30B1DA1FF94CCA92428D258D39D448F96</string>
-			<key>IDESourceControlWCCName</key>
-			<string>5373-Swift-Programming</string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
