@@ -63,7 +63,7 @@ class ColorTableViewController: UITableViewController {
         
         cell.textLabel?.text = name
         
-        cell.imageView?.image = UIImage(named: "t2")
+        cell.imageView?.image = UIImage(named: "imggg")
         var label:UIColor = myColors.hexStringToUIColor(myColors.fetchHexValue(name))
         cell.imageView?.backgroundColor = label
         

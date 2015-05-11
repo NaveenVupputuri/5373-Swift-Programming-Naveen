@@ -46,7 +46,12 @@ class ViewController: UIViewController , ColorTableViewControllerDelegate{
     @IBOutlet weak var ssValue: UITextField!
     @IBOutlet weak var vValue: UITextField!
     
+    @IBOutlet weak var firstHistory: UILabel!
     
+    @IBOutlet weak var secondHistory: UILabel!
+   
+    @IBOutlet weak var thirdHistory: UILabel!
+   
     override func viewDidLoad() {
         super.viewDidLoad()
         request(.GET, "http://cs.mwsu.edu/~griffin/swift/colors2.json")
@@ -115,6 +120,12 @@ class ViewController: UIViewController , ColorTableViewControllerDelegate{
         let labelColor:UIColor = myColors.hexStringToUIColor(myColors.fetchHexValue(color))
         chosenColorLabel.backgroundColor = labelColor
         colorItemsLabel.text = color
+        colorItemsLabel.textColor = labelColor
+        thirdHistory.backgroundColor=secondHistory.backgroundColor
+        secondHistory.backgroundColor=firstHistory.backgroundColor
+        firstHistory.backgroundColor=labelColor
+        
+        
         
         let rgb = myColors.fetchRGB(color)
         let r = Float(255*rgb.R)

@@ -96,6 +96,7 @@
 		857CC4E01AC09DFC00AF61ED /* Palette-icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 857CC4921AC09DFC00AF61ED /* Palette-icon-120.png */; };
 		857CC4E11AC09DFC00AF61ED /* Palette-icon-180.png in Resources */ = {isa = PBXBuildFile; fileRef = 857CC4931AC09DFC00AF61ED /* Palette-icon-180.png */; };
 		857CC4E21AC09DFC00AF61ED /* color_wheel-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 857CC4941AC09DFC00AF61ED /* color_wheel-32.png */; };
+		D49FE1731AFAAD7F00C1DBEC /* imggg.png in Resources */ = {isa = PBXBuildFile; fileRef = D49FE1721AFAAD7F00C1DBEC /* imggg.png */; };
 		D4A8B6391AF9332500838FC2 /* Glass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4A8B6381AF9332500838FC2 /* Glass.jpg */; };
 /* End PBXBuildFile section */
 
@@ -203,6 +204,7 @@
 		857CC4921AC09DFC00AF61ED /* Palette-icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Palette-icon-120.png"; sourceTree = "<group>"; };
 		857CC4931AC09DFC00AF61ED /* Palette-icon-180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Palette-icon-180.png"; sourceTree = "<group>"; };
 		857CC4941AC09DFC00AF61ED /* color_wheel-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "color_wheel-32.png"; sourceTree = "<group>"; };
+		D49FE1721AFAAD7F00C1DBEC /* imggg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imggg.png; sourceTree = "<group>"; };
 		D4A8B6381AF9332500838FC2 /* Glass.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Glass.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -276,6 +278,7 @@
 				857CC4541AC09DFC00AF61ED /* t13.png */,
 				857CC4551AC09DFC00AF61ED /* t14.png */,
 				857CC4561AC09DFC00AF61ED /* t15.png */,
+				D49FE1721AFAAD7F00C1DBEC /* imggg.png */,
 				857CC4571AC09DFC00AF61ED /* t16.png */,
 				857CC4581AC09DFC00AF61ED /* t17.png */,
 				857CC4591AC09DFC00AF61ED /* t18.png */,
@@ -470,6 +473,7 @@
 			files = (
 				857CC4BC1AC09DFC00AF61ED /* t39.png in Resources */,
 				857CC4A91AC09DFC00AF61ED /* t20.png in Resources */,
+				D49FE1731AFAAD7F00C1DBEC /* imggg.png in Resources */,
 				857CC4A61AC09DFC00AF61ED /* t17.png in Resources */,
 				857CC4A01AC09DFC00AF61ED /* t11.png in Resources */,
 				857CC4D41AC09DFC00AF61ED /* t63.png in Resources */,
